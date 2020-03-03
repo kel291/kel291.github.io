@@ -1,0 +1,59 @@
+Selector{
+	Property: value;
+}
+body {
+	background-image: url(backgroundimage)
+}
+h2 {
+	color: black; 
+	text-align: 5vw vertical-align;
+	border;
+	font-size: 20px
+}
+
+p{
+	color: black;
+	text-align : vertical-align;
+}
+
+img {
+	float: left; padding-right: 20px;"
+}
+
+li {list-style: none;
+display: inline-block;}
+
+p{
+	line-height: 16px;
+
+	font-style: 16px bold;
+
+	font-weight: bold;
+
+}
+.button}
+ { 
+	cursor: pointer;
+	position: absolute;
+	bottom: 10px
+	left: 50%
+	margin-left: -104.5px 
+}
+<img src="img_girl.jpg" style="width:100%;">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+@viewport {width: device-width; zoom:1.0;}
+
+@media screen and (min-width: 320px) and (max-width: 640px)
+/* for screens that are at least 320 pixels wide but less than or equal to 640 pixels wide */}
+
+
+
+  
+
+
+
+
+
+
