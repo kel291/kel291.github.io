@@ -4,12 +4,11 @@ Selector{
 body {
 	background-image: url(backgroundimage)
 }
-margin:auto;
 h2 {
 	color: black; 
-	text-align: 2vw vertical-align;
+	text-align: 5vw vertical-align;
 	border;
-	font-size: 2vw
+	font-size: 20px
 }
 
 p{
