@@ -1,6 +1,7 @@
 Selector{
 	Property: value;
 }
+margin: auto;
 body {
 	background-image: url(backgroundimage)
 }
