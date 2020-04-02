@@ -4,6 +4,7 @@ Selector{
 body {
 	background-image: url(backgroundimage)
 }
+margin:auto;
 h2 {
 	color: black; 
 	text-align: 1.55vw vertical-align;
